@@ -11,6 +11,9 @@ HTML("""
 <style>
 .text_cell.unrendered {
   background-color: yellow;
+}
+.container {
+  width: 100% !important
 } 
 </style>
 """)
