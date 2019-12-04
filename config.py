@@ -15,5 +15,9 @@ HTML("""
 .container {
   width: 100% !important
 } 
+
+div.CodeMirror span.CodeMirror-matchingbracket {
+    color: black
+}
 </style>
 """)
